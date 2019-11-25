@@ -4,23 +4,13 @@ using UnityEngine;
 
 public class Plate2 : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        //If there's a collision with the player, the object named '001' is destroyed
         if (collision.CompareTag("Player"))
         {
             Destroy(GameObject.Find("002"));
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
 }

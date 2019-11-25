@@ -6,20 +6,7 @@ public class Audio : MonoBehaviour
 {
     private void Awake()
     {
+        //Doesn't destory the object when a new scene is loaded
         DontDestroyOnLoad(transform.gameObject);
-    }
-
-
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
