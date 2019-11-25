@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Damage
+  - dam
+  - Objective
+  - MovingPlatform
+  - Destroy
+  - Anvil
   layers:
   - Default
   - TransparentFX

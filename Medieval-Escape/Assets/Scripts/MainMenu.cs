@@ -6,10 +6,21 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
 
-    //Loads the next scene in the build index when executed
-    public void PlayGame()
+
+    //Loads each of the different levels when executed
+    public void LevelOne()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("Level 1");
+    }
+
+    public void LevelTwo()
+    {
+        SceneManager.LoadScene("Level 2");
+    }
+
+    public void LevelThree()
+    {
+        SceneManager.LoadScene("Level 3");
     }
 
     //Exits the game when executed
