@@ -27,7 +27,6 @@ public class Turret : MonoBehaviour
         {
             Instantiate(arrow, transform.position, Quaternion.identity);
             SoundSource.Play();
-            Debug.Log("hELLOW");
             timebetweenshots = startnextShot;
         }
         else
