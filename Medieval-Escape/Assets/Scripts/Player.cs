@@ -22,7 +22,6 @@ public class Player : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        //If the player collides with an object tagged 'Damage', the current scene is reset
         if (collision.gameObject.CompareTag("Damage"))
         {
             Scene scene = SceneManager.GetActiveScene(); SceneManager.LoadScene(scene.name);
