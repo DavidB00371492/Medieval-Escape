@@ -9796,6 +9796,7 @@ Transform:
   m_LocalScale: {x: 5.466, y: 5.466, z: 5.466}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1850593253
@@ -9824,6 +9825,10 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.74, y: 0.37}
   m_EdgeRadius: 0
+=======
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> 6deb11fa4a9de5a538c5c72775a48c3e2bd399bf
 --- !u!1 &1859744995
 GameObject:
   m_ObjectHideFlags: 0

@@ -3474,7 +3474,10 @@ GameObject:
   m_Component:
   - component: {fileID: 279492400}
   - component: {fileID: 279492399}
+<<<<<<< HEAD
   - component: {fileID: 279492401}
+=======
+>>>>>>> 6deb11fa4a9de5a538c5c72775a48c3e2bd399bf
   m_Layer: 8
   m_Name: earth 2
   m_TagString: Untagged
@@ -17628,11 +17631,19 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1591279555}
   - component: {fileID: 1591279557}
   - component: {fileID: 1591279556}
   m_Layer: 8
   m_Name: earth 1 (102)
+=======
+  - component: {fileID: 1593377108}
+  - component: {fileID: 1593377110}
+  - component: {fileID: 1593377109}
+  m_Layer: 8
+  m_Name: earth 1 (53)
+>>>>>>> 6deb11fa4a9de5a538c5c72775a48c3e2bd399bf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17735,11 +17746,19 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1593377108}
   - component: {fileID: 1593377110}
   - component: {fileID: 1593377109}
   m_Layer: 8
   m_Name: earth 1 (53)
+=======
+  - component: {fileID: 1620620939}
+  - component: {fileID: 1620620941}
+  - component: {fileID: 1620620940}
+  m_Layer: 8
+  m_Name: earth 1 (26)
+>>>>>>> 6deb11fa4a9de5a538c5c72775a48c3e2bd399bf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
