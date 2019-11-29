@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 5361850}
   - component: {fileID: 5361849}
   - component: {fileID: 5361848}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (75)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -238,7 +238,7 @@ GameObject:
   - component: {fileID: 20202101}
   - component: {fileID: 20202100}
   - component: {fileID: 20202099}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -345,7 +345,7 @@ GameObject:
   - component: {fileID: 36694841}
   - component: {fileID: 36694840}
   - component: {fileID: 36694839}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -452,7 +452,7 @@ GameObject:
   - component: {fileID: 50536398}
   - component: {fileID: 50536397}
   - component: {fileID: 50536396}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -559,7 +559,7 @@ GameObject:
   - component: {fileID: 51590033}
   - component: {fileID: 51590032}
   - component: {fileID: 51590031}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -666,7 +666,7 @@ GameObject:
   - component: {fileID: 83334522}
   - component: {fileID: 83334521}
   - component: {fileID: 83334520}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -773,7 +773,7 @@ GameObject:
   - component: {fileID: 139997002}
   - component: {fileID: 139997001}
   - component: {fileID: 139997000}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -882,7 +882,7 @@ GameObject:
   - component: {fileID: 177561461}
   - component: {fileID: 177561460}
   - component: {fileID: 177561459}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Turret
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1024,7 +1024,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SoundSource: {fileID: 177561459}
-  ShotSound: {fileID: 8300000, guid: ffe2959098ca53a438a8454850092cea, type: 3}
+  ShotSound: {fileID: 8300000, guid: 30c21eb59a98f5343a1e3d23b5628f7e, type: 3}
   arrow: {fileID: 7493942673415541684, guid: d122bef3e32c08a4b890de5e1252f6c8, type: 3}
 --- !u!212 &177561462
 SpriteRenderer:
@@ -1100,7 +1100,7 @@ GameObject:
   - component: {fileID: 196877232}
   - component: {fileID: 196877231}
   - component: {fileID: 196877230}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1207,7 +1207,7 @@ GameObject:
   - component: {fileID: 234841336}
   - component: {fileID: 234841335}
   - component: {fileID: 234841334}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1314,7 +1314,7 @@ GameObject:
   - component: {fileID: 242489990}
   - component: {fileID: 242489989}
   - component: {fileID: 242489988}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1421,7 +1421,7 @@ GameObject:
   - component: {fileID: 299796202}
   - component: {fileID: 299796201}
   - component: {fileID: 299796200}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1529,7 +1529,7 @@ GameObject:
   - component: {fileID: 358195767}
   - component: {fileID: 358195765}
   - component: {fileID: 358195766}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Sand Block (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1546,7 +1546,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1648,7 +1648,7 @@ GameObject:
   - component: {fileID: 376857171}
   - component: {fileID: 376857170}
   - component: {fileID: 376857169}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1755,7 +1755,7 @@ GameObject:
   - component: {fileID: 391638841}
   - component: {fileID: 391638840}
   - component: {fileID: 391638839}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1862,7 +1862,7 @@ GameObject:
   - component: {fileID: 404466718}
   - component: {fileID: 404466717}
   - component: {fileID: 404466716}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1969,7 +1969,7 @@ GameObject:
   - component: {fileID: 440332796}
   - component: {fileID: 440332795}
   - component: {fileID: 440332794}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2075,9 +2075,10 @@ GameObject:
   m_Component:
   - component: {fileID: 467895372}
   - component: {fileID: 467895373}
+  - component: {fileID: 467895374}
   m_Layer: 0
   m_Name: Spikes (6)
-  m_TagString: Untagged
+  m_TagString: Damage
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2145,6 +2146,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &467895374
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467895371}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.74, y: 0.37}
+    newSize: {x: 0.74, y: 0.37}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.74, y: 0.37}
+  m_EdgeRadius: 0
 --- !u!1 &492107898
 GameObject:
   m_ObjectHideFlags: 0
@@ -2156,7 +2183,7 @@ GameObject:
   - component: {fileID: 492107901}
   - component: {fileID: 492107900}
   - component: {fileID: 492107899}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2263,7 +2290,7 @@ GameObject:
   - component: {fileID: 617926626}
   - component: {fileID: 617926625}
   - component: {fileID: 617926624}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2371,9 +2398,9 @@ GameObject:
   - component: {fileID: 640939294}
   - component: {fileID: 640939293}
   - component: {fileID: 640939292}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mounted platform 4
-  m_TagString: Untagged
+  m_TagString: MovingPlatform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2523,7 +2550,7 @@ GameObject:
   - component: {fileID: 652253193}
   - component: {fileID: 652253192}
   - component: {fileID: 652253191}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2630,7 +2657,7 @@ GameObject:
   - component: {fileID: 673784305}
   - component: {fileID: 673784304}
   - component: {fileID: 673784303}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2737,7 +2764,7 @@ GameObject:
   - component: {fileID: 702630229}
   - component: {fileID: 702630228}
   - component: {fileID: 702630227}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2971,7 +2998,7 @@ GameObject:
   - component: {fileID: 753454458}
   - component: {fileID: 753454457}
   - component: {fileID: 753454456}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3078,7 +3105,7 @@ GameObject:
   - component: {fileID: 771036731}
   - component: {fileID: 771036730}
   - component: {fileID: 771036729}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3185,7 +3212,7 @@ GameObject:
   - component: {fileID: 780844840}
   - component: {fileID: 780844839}
   - component: {fileID: 780844838}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3291,8 +3318,6 @@ GameObject:
   m_Component:
   - component: {fileID: 866780005}
   - component: {fileID: 866780004}
-  - component: {fileID: 866780003}
-  - component: {fileID: 866780002}
   - component: {fileID: 866780001}
   m_Layer: 0
   m_Name: 'Main Camera '
@@ -3309,30 +3334,6 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 866780000}
   m_Enabled: 1
---- !u!114 &866780002
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 866780000}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7937d3e0d13055a4a95a324ef122647e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &866780003
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 866780000}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f799a79af5902dd46b98bd45132e37a6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!20 &866780004
 Camera:
   m_ObjectHideFlags: 0
@@ -3401,7 +3402,7 @@ GameObject:
   - component: {fileID: 873054063}
   - component: {fileID: 873054062}
   - component: {fileID: 873054061}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3508,7 +3509,7 @@ GameObject:
   - component: {fileID: 919170852}
   - component: {fileID: 919170851}
   - component: {fileID: 919170850}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3615,7 +3616,7 @@ GameObject:
   - component: {fileID: 954508226}
   - component: {fileID: 954508225}
   - component: {fileID: 954508224}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3722,7 +3723,7 @@ GameObject:
   - component: {fileID: 958191047}
   - component: {fileID: 958191046}
   - component: {fileID: 958191045}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3831,7 +3832,7 @@ GameObject:
   - component: {fileID: 1007057240}
   - component: {fileID: 1007057239}
   m_Layer: 0
-  m_Name: Sand Block (64)
+  m_Name: Pressure Plate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3847,7 +3848,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -3951,7 +3952,7 @@ GameObject:
   - component: {fileID: 1036505510}
   - component: {fileID: 1036505509}
   - component: {fileID: 1036505508}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Turret (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4093,7 +4094,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SoundSource: {fileID: 1036505508}
-  ShotSound: {fileID: 8300000, guid: ffe2959098ca53a438a8454850092cea, type: 3}
+  ShotSound: {fileID: 8300000, guid: 30c21eb59a98f5343a1e3d23b5628f7e, type: 3}
   arrow: {fileID: 2372598561715204381, guid: 115955ca4eae1aa4cbfdb37b02bd256d, type: 3}
 --- !u!212 &1036505511
 SpriteRenderer:
@@ -4169,7 +4170,7 @@ GameObject:
   - component: {fileID: 1040756786}
   - component: {fileID: 1040756785}
   - component: {fileID: 1040756784}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4276,7 +4277,7 @@ GameObject:
   - component: {fileID: 1062777405}
   - component: {fileID: 1062777404}
   - component: {fileID: 1062777403}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4383,7 +4384,7 @@ GameObject:
   - component: {fileID: 1067954604}
   - component: {fileID: 1067954603}
   - component: {fileID: 1067954602}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4490,7 +4491,7 @@ GameObject:
   - component: {fileID: 1076344331}
   - component: {fileID: 1076344330}
   - component: {fileID: 1076344329}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4597,7 +4598,7 @@ GameObject:
   - component: {fileID: 1088333336}
   - component: {fileID: 1088333335}
   - component: {fileID: 1088333334}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4704,7 +4705,7 @@ GameObject:
   - component: {fileID: 1111824674}
   - component: {fileID: 1111824673}
   - component: {fileID: 1111824672}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4811,7 +4812,7 @@ GameObject:
   - component: {fileID: 1127037426}
   - component: {fileID: 1127037425}
   - component: {fileID: 1127037424}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4918,7 +4919,7 @@ GameObject:
   - component: {fileID: 1151002248}
   - component: {fileID: 1151002247}
   - component: {fileID: 1151002246}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5025,7 +5026,7 @@ GameObject:
   - component: {fileID: 1164703355}
   - component: {fileID: 1164703354}
   - component: {fileID: 1164703353}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5132,7 +5133,7 @@ GameObject:
   - component: {fileID: 1186869027}
   - component: {fileID: 1186869026}
   - component: {fileID: 1186869025}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5239,7 +5240,7 @@ GameObject:
   - component: {fileID: 1198988774}
   - component: {fileID: 1198988773}
   - component: {fileID: 1198988772}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5347,9 +5348,8 @@ GameObject:
   - component: {fileID: 1224201650}
   - component: {fileID: 1224201649}
   - component: {fileID: 1224201648}
-  - component: {fileID: 1224201647}
   - component: {fileID: 1224201646}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Anvil
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -5377,18 +5377,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &1224201647
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1224201645}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 927d31f08c6bd0f45b5d107b422874f9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1224201648
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5501,7 +5489,7 @@ GameObject:
   - component: {fileID: 1248915862}
   - component: {fileID: 1248915861}
   - component: {fileID: 1248915860}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5608,7 +5596,7 @@ GameObject:
   - component: {fileID: 1283166651}
   - component: {fileID: 1283166650}
   - component: {fileID: 1283166649}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5715,7 +5703,7 @@ GameObject:
   - component: {fileID: 1290909860}
   - component: {fileID: 1290909859}
   - component: {fileID: 1290909858}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5822,7 +5810,7 @@ GameObject:
   - component: {fileID: 1308769010}
   - component: {fileID: 1308769009}
   - component: {fileID: 1308769008}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5929,7 +5917,7 @@ GameObject:
   - component: {fileID: 1346080503}
   - component: {fileID: 1346080502}
   - component: {fileID: 1346080501}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6036,7 +6024,7 @@ GameObject:
   - component: {fileID: 1352818012}
   - component: {fileID: 1352818011}
   - component: {fileID: 1352818010}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6143,7 +6131,7 @@ GameObject:
   - component: {fileID: 1358831021}
   - component: {fileID: 1358831020}
   - component: {fileID: 1358831019}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6280,7 +6268,7 @@ GameObject:
   - component: {fileID: 1386577598}
   - component: {fileID: 1386577597}
   - component: {fileID: 1386577596}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6529,7 +6517,7 @@ GameObject:
   - component: {fileID: 1414372839}
   - component: {fileID: 1414372838}
   - component: {fileID: 1414372837}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (69)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6636,7 +6624,7 @@ GameObject:
   - component: {fileID: 1444669800}
   - component: {fileID: 1444669799}
   - component: {fileID: 1444669798}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6743,7 +6731,7 @@ GameObject:
   - component: {fileID: 1451305891}
   - component: {fileID: 1451305890}
   - component: {fileID: 1451305889}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6850,7 +6838,7 @@ GameObject:
   - component: {fileID: 1451682379}
   - component: {fileID: 1451682378}
   - component: {fileID: 1451682377}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (74)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6957,7 +6945,7 @@ GameObject:
   - component: {fileID: 1466331153}
   - component: {fileID: 1466331152}
   - component: {fileID: 1466331151}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7063,9 +7051,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1522221241}
   - component: {fileID: 1522221242}
+  - component: {fileID: 1522221243}
   m_Layer: 0
   m_Name: Spikes (5)
-  m_TagString: Untagged
+  m_TagString: Damage
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7133,6 +7122,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1522221243
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1522221240}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.74, y: 0.37}
+    newSize: {x: 0.74, y: 0.37}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.74, y: 0.37}
+  m_EdgeRadius: 0
 --- !u!1 &1524122700
 GameObject:
   m_ObjectHideFlags: 0
@@ -7144,7 +7159,7 @@ GameObject:
   - component: {fileID: 1524122703}
   - component: {fileID: 1524122702}
   - component: {fileID: 1524122701}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7321,6 +7336,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   jumpForce: 12
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!212 &1529044537
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7443,7 +7461,7 @@ GameObject:
   - component: {fileID: 1567313714}
   - component: {fileID: 1567313713}
   - component: {fileID: 1567313712}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7550,7 +7568,7 @@ GameObject:
   - component: {fileID: 1572178306}
   - component: {fileID: 1572178305}
   - component: {fileID: 1572178304}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7657,7 +7675,7 @@ GameObject:
   - component: {fileID: 1596368146}
   - component: {fileID: 1596368145}
   - component: {fileID: 1596368144}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7764,7 +7782,7 @@ GameObject:
   - component: {fileID: 1681992672}
   - component: {fileID: 1681992671}
   - component: {fileID: 1681992670}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7871,7 +7889,7 @@ GameObject:
   - component: {fileID: 1706846214}
   - component: {fileID: 1706846213}
   - component: {fileID: 1706846212}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (76)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7978,7 +7996,7 @@ GameObject:
   - component: {fileID: 1746452671}
   - component: {fileID: 1746452670}
   - component: {fileID: 1746452669}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (68)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8085,7 +8103,7 @@ GameObject:
   - component: {fileID: 1755732903}
   - component: {fileID: 1755732902}
   - component: {fileID: 1755732901}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8192,7 +8210,7 @@ GameObject:
   - component: {fileID: 1829801499}
   - component: {fileID: 1829801498}
   - component: {fileID: 1829801497}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8486,7 +8504,7 @@ GameObject:
   - component: {fileID: 1864156062}
   - component: {fileID: 1864156061}
   - component: {fileID: 1864156060}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8593,7 +8611,7 @@ GameObject:
   - component: {fileID: 1872542941}
   - component: {fileID: 1872542940}
   - component: {fileID: 1872542939}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8702,7 +8720,7 @@ GameObject:
   - component: {fileID: 1879668058}
   - component: {fileID: 1879668057}
   - component: {fileID: 1879668056}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Turret (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8844,7 +8862,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SoundSource: {fileID: 1879668056}
-  ShotSound: {fileID: 8300000, guid: ffe2959098ca53a438a8454850092cea, type: 3}
+  ShotSound: {fileID: 8300000, guid: 30c21eb59a98f5343a1e3d23b5628f7e, type: 3}
   arrow: {fileID: 7493942673415541684, guid: d122bef3e32c08a4b890de5e1252f6c8, type: 3}
 --- !u!212 &1879668059
 SpriteRenderer:
@@ -8903,7 +8921,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1879668055}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 38.6, y: -3.1, z: 0}
+  m_LocalPosition: {x: 38.6, y: -4.1, z: 0}
   m_LocalScale: {x: 2.27211, y: 2.27211, z: -2.2157261}
   m_Children: []
   m_Father: {fileID: 0}
@@ -8919,9 +8937,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1906589934}
   - component: {fileID: 1906589935}
+  - component: {fileID: 1906589936}
   m_Layer: 0
   m_Name: Spikes (4)
-  m_TagString: Untagged
+  m_TagString: Damage
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8989,6 +9008,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1906589936
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1906589933}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.74, y: 0.37}
+    newSize: {x: 0.74, y: 0.37}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.74, y: 0.37}
+  m_EdgeRadius: 0
 --- !u!1 &1931377832
 GameObject:
   m_ObjectHideFlags: 0
@@ -9000,7 +9045,7 @@ GameObject:
   - component: {fileID: 1931377835}
   - component: {fileID: 1931377834}
   - component: {fileID: 1931377833}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9107,7 +9152,7 @@ GameObject:
   - component: {fileID: 1933038468}
   - component: {fileID: 1933038467}
   - component: {fileID: 1933038466}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9214,7 +9259,7 @@ GameObject:
   - component: {fileID: 1939730593}
   - component: {fileID: 1939730592}
   - component: {fileID: 1939730591}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9321,7 +9366,7 @@ GameObject:
   - component: {fileID: 1942885497}
   - component: {fileID: 1942885496}
   - component: {fileID: 1942885495}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9428,7 +9473,7 @@ GameObject:
   - component: {fileID: 1964920701}
   - component: {fileID: 1964920700}
   - component: {fileID: 1964920699}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9535,7 +9580,7 @@ GameObject:
   - component: {fileID: 1973417692}
   - component: {fileID: 1973417691}
   - component: {fileID: 1973417690}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9642,7 +9687,7 @@ GameObject:
   - component: {fileID: 2007449241}
   - component: {fileID: 2007449240}
   - component: {fileID: 2007449239}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9749,7 +9794,7 @@ GameObject:
   - component: {fileID: 2036032509}
   - component: {fileID: 2036032508}
   - component: {fileID: 2036032507}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9856,7 +9901,7 @@ GameObject:
   - component: {fileID: 2048138003}
   - component: {fileID: 2048138002}
   - component: {fileID: 2048138001}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9963,7 +10008,7 @@ GameObject:
   - component: {fileID: 2050562331}
   - component: {fileID: 2050562330}
   - component: {fileID: 2050562329}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10070,7 +10115,7 @@ GameObject:
   - component: {fileID: 2051591046}
   - component: {fileID: 2051591045}
   - component: {fileID: 2051591044}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (67)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10177,7 +10222,7 @@ GameObject:
   - component: {fileID: 2055941061}
   - component: {fileID: 2055941060}
   - component: {fileID: 2055941059}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10284,7 +10329,7 @@ GameObject:
   - component: {fileID: 2061896803}
   - component: {fileID: 2061896802}
   - component: {fileID: 2061896801}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10391,7 +10436,7 @@ GameObject:
   - component: {fileID: 2081523293}
   - component: {fileID: 2081523292}
   - component: {fileID: 2081523291}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Stone Brick (73)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -13,6 +13,8 @@ public class Player : MonoBehaviour
     [Range(0, 20)]
     public float jumpForce;
 
+    [SerializeField]
+    private LayerMask groundLayer;
 
     void Start()
     {
@@ -68,14 +70,51 @@ public class Player : MonoBehaviour
                 FlipCharacter();
         }
 
-        //If the space key is pressed, the player jumps
+
+        //Jumps using the spacebar as long as the player is on the ground
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            rb.velocity = Vector2.up * jumpForce;
+            if (!IsGrounded())
+            {
+                return;
+            }
+            else
+            {
+                rb.velocity = Vector2.up * jumpForce;
+            }
         }
 
-
     }
+
+
+    //Used to determine if the player is grounded
+    bool IsGrounded()
+    {
+        Vector2 position = transform.position;
+        Vector2 direction = Vector2.down;
+        float distance = 2.0f;
+
+        //Creates a raycast from the player's position downwards by the given distance to detect whether the player is on the ground layer
+        RaycastHit2D hit = Physics2D.Raycast(position, direction, distance, groundLayer);
+
+        //If the raycast collides with the ground level, grounded is set to true
+        if (hit.collider != null)
+        {
+            return true;
+        }
+        //sets grounded to false by default
+        return false;
+    }
+
+
+
+
+
+
+
+
+
+
 
     //Flips the character on the horizontal axis when executed
     void FlipCharacter()
