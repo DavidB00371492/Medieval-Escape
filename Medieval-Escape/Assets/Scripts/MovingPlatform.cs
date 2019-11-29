@@ -44,6 +44,7 @@ public class MovingPlatform : MonoBehaviour
         }
     }
 
+    //Changes direction depending on the position it was already heading
     private void ChangeDirction()
     {
         if(nextPosition != startPosition)
